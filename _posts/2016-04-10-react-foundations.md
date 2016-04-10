@@ -12,6 +12,10 @@ tags: []
 * [React](https://facebook.github.io/react/)
 * [React Native](https://facebook.github.io/react-native/)
 
+## Jest
+
+* [Jest](http://facebook.github.io/jest/)
+
 ## Flux
 
 * [Flux](https://facebook.github.io/flux/docs/overview.html)
