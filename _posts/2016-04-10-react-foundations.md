@@ -20,6 +20,7 @@ tags: []
 
 * [Flux](https://facebook.github.io/flux/docs/overview.html)
 * [The case for Flux](https://medium.com/swlh/the-case-for-flux-379b7d1982c6#.8wn7ka9ex)
+* [Why you can't dispatch in the middle of dispatching](https://github.com/facebook/flux/issues/47#issuecomment-54716863)
 
 ## Redux
 
